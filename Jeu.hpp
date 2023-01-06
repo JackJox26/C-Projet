@@ -14,7 +14,7 @@ class Jeu
 {
 private:
     vector<Joueur> joueurs;
-    array<ActionS, 10> cartesRoyaume;
+    // array<ActionS, 10> cartesRoyaume;
 
 
 public:
