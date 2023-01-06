@@ -1,0 +1,4 @@
+#ifndef __PlayerStateDiscardCards_hpp
+#define __PlayerStateDiscardCards_hpp
+
+#endif

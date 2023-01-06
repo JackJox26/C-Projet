@@ -1,0 +1,4 @@
+#ifndef __PlayerStateTrashCards_hpp
+#define __PlayerStateTrashCards_hpp
+
+#endif
